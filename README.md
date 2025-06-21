@@ -15,7 +15,6 @@
 💬 &nbsp;Open to collaborations, mentorship, or tech chats—let’s connect!\
 ✉️ &nbsp;Reach me at **estebanalayon7@gmail.com** (I reply fast!).\
 🔗 &nbsp;[Portfolio](https://www.estebanportafolio.com) | [LinkedIn](https://www.linkedin.com/in/esteban-alayon-318a1424a/) | [TikTok](https://www.tiktok.com/@estebanalayon7).\
-⚡ &nbsp;Fun fact: I’ve turned coffee into **12+ production apps** over 2 years. ☕→💻
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
