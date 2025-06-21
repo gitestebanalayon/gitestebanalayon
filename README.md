@@ -40,6 +40,6 @@
 </p>
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
+Credits: [Esteban Alayon](https://github.com/gitesteban0)
 
 Last Edited on: 11/12/2020
