@@ -1,18 +1,21 @@
 ![Aditya Vikram Singh Banner](./head.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Esteban</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🚀 &nbsp;FullStack Developer with 2+ years of experience building scalable web solutions.\
+💡 &nbsp;Passionate about clean code, modern tech stacks, and meticulous project organization.\
+🎓 &nbsp;Computer Science graduate with a self-taught mastery of cutting-edge technologies.\
+🌱 &nbsp;Focused on web development (Vue.js, Nest.js, databases) and software architecture best practices.\
+📊 &nbsp;Detail-oriented optimizer: From UI/UX design to CI/CD pipelines, I streamline processes.\
+✍️ &nbsp;Lifelong learner: Currently diving deeper into Nest.js and microservices.\
+💬 &nbsp;Open to collaborations, mentorship, or tech chats—let’s connect!\
+✉️ &nbsp;Reach me at **estebanalayon7@gmail.com** (I reply fast!).\
+🔗 &nbsp;[Portfolio](https://www.estebanportafolio.com) | [LinkedIn](https://www.linkedin.com/in/esteban-alayon-318a1424a/) | [TikTok](https://www.tiktok.com/@estebanalayon7) | [GitHub](your-github-link).\
+⚡ &nbsp;Fun fact: I’ve turned coffee into **12+ production apps** over 2 years. ☕→💻
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
